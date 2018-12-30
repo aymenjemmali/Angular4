@@ -1,1 +1,2 @@
-# Angular4
+# E-commerce Website 
+Academic project
